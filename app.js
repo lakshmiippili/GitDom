@@ -1,0 +1,1 @@
+console.log('I am new to Git and love Git')
